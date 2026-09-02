@@ -5,6 +5,11 @@
   </a>
 </p>
 
+<p align="justify">
+Focused on building scalable and reliable software with clean code, focusing on strong fundamentals in Data Structures & Algorithms, and solid full-stack development skills. Currently seeking Software Engineering Internships and entry-level SDE roles.
+</p>
+
+
 <p align="center">
   <a href="https://xploreshivam.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
