@@ -1,7 +1,7 @@
 <h1 align="center"><B>SHIVAM CHAUHAN</B></h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Development+Engineer;B.Tech+CSE+(3rd+Year)+%7C+Invertis+University;Full+Stack+Developer+(MERN+%2B+Java);Focused+in+DSA+%26+System+Design+(besic);Open+Source+Contributor+%7C+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Development+Engineer;B.Tech+CSE+(3rd+Year)+%7C+Invertis+University;Full+Stack+Developer+(MERN+%2B+Java);Focused+in+DSA+%26+System+Design+Fundamentals;Open+Source+Contributor+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
